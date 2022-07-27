@@ -16,7 +16,7 @@ for (const file of commandFiles) {
 }
 
 client.once('ready', () => {
-	console.log('起動中!');
+	console.log('Ready!');
 });
 
 client.on('interactionCreate', async interaction => {
