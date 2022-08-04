@@ -9,7 +9,7 @@
 				"lint": "eslint ."
 		},
 		"keywords": [],
-		"author": "mizushin53 <taurus.nebula@gmail.com>",
+		"author": "mizushin53",
 		"license": "ISC",
 		"dependencies": {
 				"@discordjs/rest": "^1.0.0",
